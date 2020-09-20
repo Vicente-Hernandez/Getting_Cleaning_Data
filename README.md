@@ -1,13 +1,5 @@
-# Getting_Cleaning_Data
-
----
-title: "ReadMe.Md"
-output: github_document
-author: "Vicentico78"
----
-
 ## Course Project Overview
-Johns Hopkins Data Science Specialization Getting and Cleaning Data Coursera Week 4 Class Project
+Johns Hopkins Data Science Specialization
 
 R code for Cleaning and Working with Data
 
